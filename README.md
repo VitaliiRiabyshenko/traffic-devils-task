@@ -3,8 +3,8 @@
 Clone the repo locally:
 
 ``` sh
-git clone https://github.com/inertiajs/pingcrm.git pingcrm
-cd pingcrm
+git clone https://github.com/VitaliiRiabyshenko/traffic-devils-task.git
+cd traffic-devils-task
 ```
 
 Install PHP dependencies:
